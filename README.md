@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">A passionate software developer.</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-62018" alt="rohit-62018" /></a> </p>
 
 - 👨‍💻 I’m currently working on **a Note-Taking Web Application.**
