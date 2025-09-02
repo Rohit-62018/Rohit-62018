@@ -1,4 +1,4 @@
-<a aline="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&pause=1000&center=true&width=501&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Kumar;Software+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&pause=1000&center=true&width=501&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Kumar;Software+Developer" alt="Typing SVG" /></a>
 
 <p align="left"></p>
 
@@ -8,9 +8,11 @@
 
 - 👯 I’m looking to collaborate on **open-source projects, especially in Jenkins.**
 
+- 📝 LinkedIn https://www.linkedin.com/in/rohit-kumar-a82b522ba/
+
 - 🔭 **I’m actively seeking Internship opportunities to gain practical experience.**
 
-- 📫 How to reach me **Rohityt62018@gmail.com**
+- 📫 How to reach me **rohityt62018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
