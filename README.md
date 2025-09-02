@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Kumar;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Kumar;Software+Developer)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit-62018" alt="rohit-62018" /></a> </p>
+
 
 - 👨‍💻 I’m currently working on **a Note-Taking Web Application.**
 
