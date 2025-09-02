@@ -1,8 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=&pause=1000&center=true&width=501&lines=Hi+%F0%9F%91%8B%2C+I'm+Rohit+Kumar;Software+Developer" alt="Typing SVG" /></a>
 
-<p align="left"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostdeveloper404&label=Profile%20views&color=0e75b6&style=flat" alt="ghostdeveloper404" /> </p>
 
-- 👨‍💻 I’m currently working on **a Note-Taking Web Application.**
+- 👨‍💻 I’m working on **a Note-Taking Web Application.**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms using Java.**
 
