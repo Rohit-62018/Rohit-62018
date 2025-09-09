@@ -1,4 +1,4 @@
-//<img src="https://cdn.wallpapersafari.com/30/0/n0HOqk.gif" style="height:60%;">
+
 <h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
 <h3 align="center">An enthusiastic software developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostdeveloper404&label=Profile%20views&color=0e75b6&style=flat" alt="ghostdeveloper404" /> </p>
