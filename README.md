@@ -3,7 +3,6 @@
 <h3 align="center">An enthusiastic software developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostdeveloper404&label=Profile%20views&color=0e75b6&style=flat" alt="ghostdeveloper404" /> </p>
 
-- 👨‍💻 I’m working on **a Note-Taking Web Application.**
 
 - 🌱 I’m currently learning **Data Structures & Algorithms using Java.**
 
