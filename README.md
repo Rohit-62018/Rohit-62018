@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects, especially in Jenkins.**
 
-- 🔭 **I’m actively seeking Internship opportunities to gain practical experience.**
+- 🔭 **I’m actively seeking Internship or job opportunities to gain practical experience.**
 
 - 📫 How to reach me **rohityt62018@gmail.com**
 
